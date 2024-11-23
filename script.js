@@ -14,7 +14,7 @@ function changeQuote() {
         `"Why so sigma? HEHEHEHEHEHEHEH" - James Sanmartin`,
         `"I boil my friends slowly" - Eamon Kerr`,
         `"You've GYAT to be RIZZING me 🤣🤣🤣‼️‼️🗣️🗣️‼️‼️" - James Sanmartin`,
-        `"Better to do what makes you better than to do what makes you happy" - Eamon Kerr`
+        `"Only do what makes you happy if you're doing what makes you better" - Eamon Kerr`
         
     ]
     /** 
