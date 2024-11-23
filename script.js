@@ -12,6 +12,7 @@ function changeQuote() {
         `"We should put in Church History quotes, that would be funny probably" - Gabriel Tsui`,
         `"quick say something brainrotted" - Gabriel Tsui`
         `"Why so sigma? HEHEHEHEHEHEHEH" - James Sanmartin`
+        `"I boil my friends slowly" - Eamon Kerr`
     ]
     /** 
     var quotesWithSpeaker = [
