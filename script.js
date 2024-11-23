@@ -15,7 +15,7 @@ function changeQuote() {
         `"I boil my friends slowly" - Eamon Kerr`,
         `"You've GYAT to be RIZZING me 🤣🤣🤣‼️‼️🗣️🗣️‼️‼️" - James Sanmartin`,
         `"Only do what makes you happy if you're doing what makes you better" - Eamon Kerr`,
-        `"Life is hard, bur I'm harder 🤣‼️‼️‼️🤣🗣️💯💯💯💪🔥‼️‼️💯💯" - James Sanmartin`,
+        `"Life is hard, but I'm harder 🤣‼️‼️‼️🤣🗣️💯💯💯💪🔥‼️‼️💯💯" - James Sanmartin`,
         
     ]
     /** 
