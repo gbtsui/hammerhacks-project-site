@@ -10,9 +10,13 @@ function changeQuote() {
         `"sigmoid, sigmoid, on the wall, which neuron is the most activated of them all?" - Gabriel Tsui`,
         `"Placeholder Quote, I don't know, just put something there" - Eamon Kerr`,
         `"We should put in Church History quotes, that would be funny probably" - Gabriel Tsui`,
-        `"quick say something brainrotted" - Gabriel Tsui`
-        `"Why so sigma? HEHEHEHEHEHEHEH" - James Sanmartin`
-        `"I boil my friends slowly" - Eamon Kerr`
+        `"quick say something brainrotted" - Gabriel Tsui`,
+        `"Why so sigma? HEHEHEHEHEHEHEH" - James Sanmartin`,
+        `"I boil my friends slowly" - Eamon Kerr`,
+        `"You've GYAT to be RIZZING me 🤣🤣🤣‼️‼️🗣️🗣️‼️‼️" - James Sanmartin`,
+        `"Stop misquoting me I didn't say allat" - Sun Tzu`,
+        `"Life is hard, but I'm harder 🤣‼️‼️‼️🤣🗣️💯💯💯💪🔥‼️‼️💯💯" - James Sanmartin`,
+        
     ]
     /** 
     var quotesWithSpeaker = [
