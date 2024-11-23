@@ -10,9 +10,10 @@ function changeQuote() {
         `"sigmoid, sigmoid, on the wall, which neuron is the most activated of them all?" - Gabriel Tsui`,
         `"Placeholder Quote, I don't know, just put something there" - Eamon Kerr`,
         `"We should put in Church History quotes, that would be funny probably" - Gabriel Tsui`,
-        `"quick say something brainrotted" - Gabriel Tsui`
-        `"Why so sigma? HEHEHEHEHEHEHEH" - James Sanmartin`
-        `"I boil my friends slowly" - Eamon Kerr`
+        `"quick say something brainrotted" - Gabriel Tsui`,
+        `"Why so sigma? HEHEHEHEHEHEHEH" - James Sanmartin`,
+        `"I boil my friends slowly" - Eamon Kerr`,
+        `"Better to do what makes you better than to do what makes you happy" - Eamon Kerr`
     ]
     /** 
     var quotesWithSpeaker = [
